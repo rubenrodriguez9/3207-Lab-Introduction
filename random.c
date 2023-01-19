@@ -17,7 +17,7 @@ int main(){
         }
 
 	puts(word);
-
+  return(word);
 	return 0;
 }
 
